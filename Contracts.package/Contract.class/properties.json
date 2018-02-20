@@ -1,0 +1,18 @@
+{
+	"category" : "Contracts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "WF 2/16/2018 17:11",
+	"instvars" : [
+		"wrappedClass",
+		"selector",
+		"oldMethod",
+		"precondition",
+		"postcondition" ],
+	"name" : "Contract",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Contracts",
+	"classinstvars" : [
+		"lookup" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "WF 2/16/2018 17:09",
+	"instvars" : [
+		 ],
+	"name" : "InvariantManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

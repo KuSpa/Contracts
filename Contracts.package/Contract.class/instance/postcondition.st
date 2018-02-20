@@ -1,0 +1,4 @@
+accessing
+postcondition
+
+	^postcondition

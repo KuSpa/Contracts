@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildCodePanesWith:" : "WF 2/15/2018 00:24",
+		"buildContractButtonsWith:" : "WF 2/15/2018 00:25",
+		"buildContractPanesWith:" : "WF 2/15/2018 00:11",
+		"buildDefaultBrowserWith:" : "WF 2/16/2018 17:07",
+		"buildPostPaneWith:" : "WF 2/15/2018 00:58",
+		"buildPrePaneWith:" : "WF 2/15/2018 00:59",
+		"changed:" : "WF 2/14/2018 14:32",
+		"contentsChanged" : "WF 2/15/2018 01:22",
+		"currentCompiledMethod" : "WF 2/14/2018 14:01",
+		"defineMessageFrom:notifying:" : "WF 2/15/2018 11:28",
+		"embeddedModel" : "WF 2/13/2018 23:42",
+		"embeddedModel:" : "WF 2/13/2018 23:42",
+		"initialize" : "WF 2/14/2018 13:41" } }

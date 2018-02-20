@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"existsOrRegister:" : "WF 2/15/2018 10:19",
+		"isArmed:" : "WF 2/1/2018 17:54",
+		"lookup" : "WF 2/2/2018 14:30",
+		"register:" : "WF 2/1/2018 17:55",
+		"reload:" : "WF 2/1/2018 16:58",
+		"shoot:" : "WF 2/1/2018 17:16" },
+	"instance" : {
+		 } }

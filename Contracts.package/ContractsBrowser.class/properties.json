@@ -1,0 +1,14 @@
+{
+	"category" : "Contracts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "WF 2/16/2018 17:10",
+	"instvars" : [
+		"embeddedModel" ],
+	"name" : "ContractsBrowser",
+	"pools" : [
+		 ],
+	"super" : "Browser",
+	"type" : "normal" }

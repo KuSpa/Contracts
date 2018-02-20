@@ -1,0 +1,14 @@
+{
+	"category" : "Contracts",
+	"classinstvars" : [
+		"lookup" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "WF 2/15/2018 14:11",
+	"instvars" : [
+		"lookup" ],
+	"name" : "BulletManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

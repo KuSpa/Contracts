@@ -1,0 +1,14 @@
+{
+	"category" : "Contracts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "WF 2/15/2018 10:22",
+	"instvars" : [
+		"parentModel" ],
+	"name" : "ContractModel",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"contentsSelection" : "WF 2/14/2018 13:59",
+		"contract" : "WF 2/16/2018 17:04",
+		"contract:notifying:" : "WF 2/16/2018 17:05",
+		"currentCompiledMethod" : "WF 2/14/2018 13:53",
+		"deleteButtonState" : "WF 2/16/2018 17:18",
+		"deleteConditions" : "WF 2/16/2018 17:19",
+		"deleteContract" : "WF 2/16/2018 17:05",
+		"deleteInvariant" : "WF 2/16/2018 17:06",
+		"invariant" : "WF 2/15/2018 01:18",
+		"invariant:notifying:" : "WF 2/15/2018 13:01",
+		"parentModel" : "WF 2/13/2018 23:40",
+		"parentModel:" : "WF 2/13/2018 23:40",
+		"postBlock" : "WF 2/15/2018 13:02",
+		"postBlock:notifying:" : "WF 2/15/2018 10:33",
+		"preBlock" : "WF 2/15/2018 01:18",
+		"preBlock:notifying:" : "WF 2/15/2018 01:17",
+		"selectedClass" : "WF 2/14/2018 14:02",
+		"selectedClassOrMetaClass" : "WF 2/14/2018 13:55",
+		"selectedMessageName" : "WF 2/14/2018 14:07" } }

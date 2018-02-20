@@ -1,0 +1,4 @@
+accessing
+wrappedClass
+
+	^wrappedClass
